@@ -11,7 +11,7 @@ To design and implement an interactive Power BI dashboard that enables Mahadev S
 ## Dashboard with key insights : 
 
 <!-- Dashboard image -->
-<img src="https://github.com/rishav197/Blinkit-Sales-Analytics-and-Dashboard/blob/main/blinkit-sales-analytics-dashboard.jpg" alt="figure0_img" width="100%"/>
+<img src="https://github.com/rishav197/Mahadev-Store-Online-Sales-Analytics-Dashboard/blob/main/ecommerce-sales-dashboard.jpg" alt="figure0_img" width="100%"/>
 
 
 
